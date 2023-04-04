@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@google-cloud/iam": "^0.3.1",
+    "@google-cloud/iam-credentials": "^2.0.3",
+    "@google-cloud/resource": "^1.2.1",
+    "@google-cloud/resource-manager": "^4.2.1",
+    "axios": "^1.3.4",
+    "childprocess": "^2.0.2",
+    "crypto": "^1.0.1",
+    "generate-password": "^1.7.0",
+    "google-auth-library": "^8.7.0",
+    "googleapis": "^113.0.0",
+    "uuid": "^9.0.0"
+  }
+}
